@@ -61,11 +61,11 @@
 ### 🔗 <span style="color:#00FF7F">Connect with Me</span>
 
 <p align="center">
-  <a href="https://linkedin.com/in/princeani2828" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" /></a>
+  <a href="http://www.linkedin.com/in/prince-ani-010236310" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" /></a>
   &nbsp;
   <a href="https://github.com/princeani2828" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/github--v1.png" /></a>
   &nbsp;
-  <a href="https://instagram.com/princeani2828" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png" /></a>
+  <a href="https://www.instagram.com/opti_mist_2004" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png" /></a>
   &nbsp;
   <a href="https://twitter.com/princeani2828" target="_blank"><img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" /></a>
 </p>
