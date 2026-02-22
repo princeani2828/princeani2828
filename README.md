@@ -1,7 +1,15 @@
-# Verified Projects
+# Projects & Repos
 
-1. **Project A** - A brief description of what Project A is about.
-2. **Project B** - A brief description of what Project B is about.
-3. **Project C** - A brief description of what Project C involves.
+Here are some of the user's actual verified projects:
 
-This README contains only verified projects that I have directly contributed to, providing a more accurate representation of my work.
+- Netflix-Clone-Task
+- Drums-Kit
+- Relaycontroller
+- SolarController2
+- IOT-asthra
+- Asthra-Project-DI-Servo-Lighting
+- AI Fault Detection System
+
+# About This Repository
+
+This repository contains code and resources related to the user's projects. Feel free to explore and contribute!
