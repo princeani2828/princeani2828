@@ -29,6 +29,8 @@
 - Asthra-Project-DI-Servo-Lighting
 - AI Fault Detection System
 - Quotation billing system
+- Website building for a company
+- E-Commerce Website for Chrisara Interiors(Under Development)
 
 ### 🛠️ <span style="color:#00CED1">Tech Stack</span>
 
