@@ -28,6 +28,7 @@
 - IOT-asthra
 - Asthra-Project-DI-Servo-Lighting
 - AI Fault Detection System
+- Quotation billing system
 
 ### 🛠️ <span style="color:#00CED1">Tech Stack</span>
 
